@@ -3,7 +3,7 @@
     "description": "Free portable offline colour picker and colour editor for web designers and digital artists",
     "version": "5.3",
     "url": "https://annystudio.com/jcpicker.zip",
-    "extract_dir": "JustColorPicker",
+    "extract_dir": "jcpicker",
     "bin": "jcpicker.exe",
     "persist":"jcpicker.ini",
     "shortcuts":[
