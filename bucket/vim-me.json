@@ -15,18 +15,6 @@
                 "16a29881837047d783e8556506c73bbb292bdfefe042d77564d3c166d92b9d98",
                 "49225d3470bf4b397d3cab865eddca6e47610be356f812588588c2661a11557e"
             ]
-        },
-        "32bit": {
-            "url": [
-                "https://github.com/vim/vim-win32-installer/releases/download/v8.2.0057/gvim_8.2.0057_x86.zip",
-                "https://raw.githubusercontent.com/ScoopInstaller/Main/master/scripts/vim/install-context.reg",
-                "https://raw.githubusercontent.com/ScoopInstaller/Main/master/master/scripts/vim/uninstall-context.reg"
-            ],
-            "hash": [
-                "40fc4b91f321a903acfa460039e51b68dcac15279907f648f8610bc3ba5fdf3d",
-                "16a29881837047d783e8556506c73bbb292bdfefe042d77564d3c166d92b9d98",
-                "49225d3470bf4b397d3cab865eddca6e47610be356f812588588c2661a11557e"
-            ]
         }
     },
     "extract_dir": "vim\\vim82",
@@ -116,9 +104,6 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_x64.zip"
-            },
-            "32bit": {
-                "url": "https://github.com/vim/vim-win32-installer/releases/download/v$version/gvim_$version_x86.zip"
             }
         },
         "extract_dir": "vim\\vim$majorVersion$minorVersion"
