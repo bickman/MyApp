@@ -5,6 +5,6 @@ MyApp 是对[scoop](https://github.com/lukesampson/scoop)软件仓库的补充�
 
 软件        |添加原因
 :-----------|:---------------------------------
-jcpicker    |官方仓库未收入
+jcpicker    |官方仓库未收入,开源小巧的桌面取色软件
 vim         |官方仓库会自动加入_gvimrc，而gvimrc会覆盖我的vimrc配置文件，而且gvim用gvimrc启动会变慢
 
