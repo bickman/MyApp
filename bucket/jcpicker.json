@@ -2,11 +2,11 @@
     "homepage": "https://annystudio.com/software/colorpicker",
     "description": "Free portable offline colour picker and colour editor for web designers and digital artists",
     "license": "freeware",
-    "version": "5.3",
+    "version": "5.4",
     "url": "https://annystudio.com/jcpicker.zip",
-    "hash": "f114841c86c42abce522082f578fc75af067bdee991a47735f2e8d8dfdb72461",
+    "hash": "07b98939ee684241fc6a9ef1e79e667bf6f545206198e78f22851995db614bae",
     "bin": "jcpicker.exe",
-    "shortcuts":[
+    "shortcuts": [
         [
             "jcpicker.exe",
             "jcpicker"
@@ -18,7 +18,5 @@
     },
     "autoupdate": {
         "url": "https://annystudio.com/jcpicker.zip"
-    
     }
-
-} 
+}
